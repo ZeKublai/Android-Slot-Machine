@@ -109,4 +109,4 @@ multiple languages to reach a wider audience by translating UI text and game con
 ### Analytics and Metrics: 
 Implement analytics tools to gather player data for game improvement and balancing.
 
-These improvements will enhance the game's appeal, user experience, and longevity. Prioritize based on project goals and player feedback.
+- These improvements will enhance the game's appeal, user experience, and longevity. Prioritize based on project goals and player feedback.
