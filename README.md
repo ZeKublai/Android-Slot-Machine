@@ -76,7 +76,7 @@ The system follows a modular architecture, allowing independent modifications to
 ### Customization: 
 The Scriptable Objects and modular design provide flexibility for integrating custom animations, particle effects, and sound effects. These can be easily added to symbols and lines, enhancing the visual and audio experience of the slot machine game.
 
-- The current implementation reflects a 5x3 configuration due to time constraints, but the system's structure and design concepts are adaptable and scalable to accommodate larger reel sizes, additional symbols, and further customizations.
+- The current implementation reflects only a 5x3 configuration due to time constraints, but the system's structure and design concepts are adaptable and scalable to accommodate larger reel sizes, additional symbols, and further customizations.
 
 <br>
 
