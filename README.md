@@ -29,7 +29,7 @@ Responsibilities:
 - Tracks the current amount of coins and the number of wins.
 - Provides methods for adjusting the bet amount and calculating the total bet.
 
-### UI Handler
+### UI_Handler
 Description: Updates the user interface elements and manages their visibility and content.
 Responsibilities:
 - Updates the UI values, such as text content, to reflect the current game state.
