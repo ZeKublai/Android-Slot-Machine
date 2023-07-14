@@ -4,6 +4,7 @@ Welcome! This repository contains my output for my Anino Exam where I made a Slo
 
 # System Setup
 ## Unity Version: 2020.3.48f1
+### Tested on a Galaxy S8
 
 The main classes in the system setup are as follows:
 <br>
@@ -97,6 +98,15 @@ By adhering to the MVC pattern, the project achieves separation of concerns, imp
 <br>
 
 # Possible Future Improvements
+### Additional Reel Configurations: 
+Extend the game's flexibility by allowing customizable grid configurations. Enable the ability to create reel layouts of different sizes and arrangements beyond the current 5x3 grid, accommodating varying gameplay mechanics and visual designs.
+
+### Handling Values Beyond Integer Limit: 
+Implement a solution to handle values that exceed the maximum integer limit. Consider alternative data structures or approaches, such as using BigIntegers or implementing a custom arithmetic system to support calculations and storage of large values.
+
+### Dynamic Scaling: 
+Enhance the scalability of the game by introducing a dynamic scaling mechanism that adapts the UI and game elements to different screen sizes and resolutions. This ensures optimal presentation and gameplay experiences across various devices and platforms as this game was only tested on a Galaxy S8.
+
 ### Additional Features: 
 Expand the game with bonus rounds, special symbols, and progressive jackpots to enhance gameplay and engagement.
 
