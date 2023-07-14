@@ -97,9 +97,16 @@ By adhering to the MVC pattern, the project achieves separation of concerns, imp
 <br>
 
 # Possible Future Improvements
-### Additional Features: Expand the game with bonus rounds, special symbols, and progressive jackpots to enhance gameplay and engagement.
-### Animations and Effects: Better visual and audio effects like transitions, particle effects, and sound effects to make gameplay more immersive.
-### Localization: Support multiple languages to reach a wider audience by translating UI text and game content.
-### Analytics and Metrics: Implement analytics tools to gather player data for game improvement and balancing.
+### Additional Features: 
+Expand the game with bonus rounds, special symbols, and progressive jackpots to enhance gameplay and engagement.
+
+### Animations and Effects: 
+Better visual and audio effects like transitions, particle effects, and sound effects to make gameplay more immersive.
+
+### Localization: Support 
+multiple languages to reach a wider audience by translating UI text and game content.
+
+### Analytics and Metrics: 
+Implement analytics tools to gather player data for game improvement and balancing.
 
 These improvements will enhance the game's appeal, user experience, and longevity. Prioritize based on project goals and player feedback.
