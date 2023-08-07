@@ -1,5 +1,5 @@
-# ANINO EXAM
-
+# SLOT MACHINE
+ANINO EXAM
 Welcome! This repository contains my output for my Anino Exam where I made a Slot Machine App. Have fun experimenting!
 
 # System Setup
